@@ -1,0 +1,11 @@
+C:\Users\chaus\Desktop\Activity1_Aaron_Chaussignand\VehicleClassLibrary\bin\Debug\net8.0\VehicleClassLibrary.deps.json
+C:\Users\chaus\Desktop\Activity1_Aaron_Chaussignand\VehicleClassLibrary\bin\Debug\net8.0\VehicleClassLibrary.dll
+C:\Users\chaus\Desktop\Activity1_Aaron_Chaussignand\VehicleClassLibrary\bin\Debug\net8.0\VehicleClassLibrary.pdb
+C:\Users\chaus\Desktop\Activity1_Aaron_Chaussignand\VehicleClassLibrary\obj\Debug\net8.0\VehicleClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chaus\Desktop\Activity1_Aaron_Chaussignand\VehicleClassLibrary\obj\Debug\net8.0\VehicleClassLibrary.AssemblyInfoInputs.cache
+C:\Users\chaus\Desktop\Activity1_Aaron_Chaussignand\VehicleClassLibrary\obj\Debug\net8.0\VehicleClassLibrary.AssemblyInfo.cs
+C:\Users\chaus\Desktop\Activity1_Aaron_Chaussignand\VehicleClassLibrary\obj\Debug\net8.0\VehicleClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\chaus\Desktop\Activity1_Aaron_Chaussignand\VehicleClassLibrary\obj\Debug\net8.0\VehicleClassLibrary.dll
+C:\Users\chaus\Desktop\Activity1_Aaron_Chaussignand\VehicleClassLibrary\obj\Debug\net8.0\refint\VehicleClassLibrary.dll
+C:\Users\chaus\Desktop\Activity1_Aaron_Chaussignand\VehicleClassLibrary\obj\Debug\net8.0\VehicleClassLibrary.pdb
+C:\Users\chaus\Desktop\Activity1_Aaron_Chaussignand\VehicleClassLibrary\obj\Debug\net8.0\ref\VehicleClassLibrary.dll
