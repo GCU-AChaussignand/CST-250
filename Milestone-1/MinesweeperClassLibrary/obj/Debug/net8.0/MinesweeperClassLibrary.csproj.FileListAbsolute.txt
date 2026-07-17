@@ -1,0 +1,11 @@
+C:\Users\chaus\Desktop\Milestone1_Aaron_Chaussignand_Codebase\MinesweeperClassLibrary\bin\Debug\net8.0\MinesweeperClassLibrary.deps.json
+C:\Users\chaus\Desktop\Milestone1_Aaron_Chaussignand_Codebase\MinesweeperClassLibrary\bin\Debug\net8.0\MinesweeperClassLibrary.dll
+C:\Users\chaus\Desktop\Milestone1_Aaron_Chaussignand_Codebase\MinesweeperClassLibrary\bin\Debug\net8.0\MinesweeperClassLibrary.pdb
+C:\Users\chaus\Desktop\Milestone1_Aaron_Chaussignand_Codebase\MinesweeperClassLibrary\obj\Debug\net8.0\MinesweeperClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chaus\Desktop\Milestone1_Aaron_Chaussignand_Codebase\MinesweeperClassLibrary\obj\Debug\net8.0\MinesweeperClassLibrary.AssemblyInfoInputs.cache
+C:\Users\chaus\Desktop\Milestone1_Aaron_Chaussignand_Codebase\MinesweeperClassLibrary\obj\Debug\net8.0\MinesweeperClassLibrary.AssemblyInfo.cs
+C:\Users\chaus\Desktop\Milestone1_Aaron_Chaussignand_Codebase\MinesweeperClassLibrary\obj\Debug\net8.0\MinesweeperClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\chaus\Desktop\Milestone1_Aaron_Chaussignand_Codebase\MinesweeperClassLibrary\obj\Debug\net8.0\MinesweeperClassLibrary.dll
+C:\Users\chaus\Desktop\Milestone1_Aaron_Chaussignand_Codebase\MinesweeperClassLibrary\obj\Debug\net8.0\refint\MinesweeperClassLibrary.dll
+C:\Users\chaus\Desktop\Milestone1_Aaron_Chaussignand_Codebase\MinesweeperClassLibrary\obj\Debug\net8.0\MinesweeperClassLibrary.pdb
+C:\Users\chaus\Desktop\Milestone1_Aaron_Chaussignand_Codebase\MinesweeperClassLibrary\obj\Debug\net8.0\ref\MinesweeperClassLibrary.dll
