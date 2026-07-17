@@ -1,0 +1,54 @@
+using ChessBoardClassLibrary.Models;
+namespace ChessBoardConsoleApp;
+public static class Utility
+{
+    public static int ReadBoardSize()
+    {
+        while (true)
+        {
+            Console.Write("Enter board size 4-16, or press Enter for 8: ");
+            string? input = Console.ReadLine();
+            if (string.IsNullOrWhiteSpace(input)) return 8;
+            if (int.TryParse(input, out int size) && size >= 4 && size <= 16) return size;
+            Console.WriteLine("Invalid size.");
+        }
+    }
+    public static ChessPieceType ReadPieceSelection()
+    {
+        while (true)
+        {
+            foreach (ChessPieceType piece in Enum.GetValues<ChessPieceType>()) Console.WriteLine($"{(int)piece}. {piece}");
+            Console.Write("Piece number: ");
+            if (int.TryParse(Console.ReadLine(), out int v) && Enum.IsDefined(typeof(ChessPieceType), v)) return (ChessPieceType)v;
+            Console.WriteLine("Invalid piece.");
+        }
+    }
+    public static int ReadCoordinate(string label, int boardSize)
+    {
+        while (true)
+        {
+            Console.Write($"Enter {label} 0-{boardSize - 1}: ");
+            if (int.TryParse(Console.ReadLine(), out int c) && c >= 0 && c < boardSize) return c;
+            Console.WriteLine("Invalid coordinate.");
+        }
+    }
+    public static void PrintBoard(BoardModel board)
+    {
+        Console.WriteLine("
+S = selected, * = legal move, . = empty");
+        Console.Write("    "); for (int c=0;c<board.Size;c++) Console.Write($" {c,2} "); Console.WriteLine();
+        for (int r=0;r<board.Size;r++)
+        {
+            Console.Write($"{r,2} | ");
+            for (int c=0;c<board.Size;c++)
+            {
+                CellModel cell = board.Cells[r,c];
+                Console.ForegroundColor = cell.IsSelected ? ConsoleColor.Yellow : cell.IsLegalMove ? ConsoleColor.Green : ConsoleColor.Gray;
+                Console.Write(cell.IsSelected ? "S" : cell.IsLegalMove ? "*" : ".");
+                Console.ResetColor(); Console.Write(" | ");
+            }
+            Console.WriteLine();
+        }
+        Console.WriteLine();
+    }
+}

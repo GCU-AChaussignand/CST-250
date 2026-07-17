@@ -1,0 +1,11 @@
+C:\Users\chaus\Desktop\Activity2_Aaron_Chaussignand\ChessBoardClassLibrary\bin\Debug\net8.0\ChessBoardClassLibrary.deps.json
+C:\Users\chaus\Desktop\Activity2_Aaron_Chaussignand\ChessBoardClassLibrary\bin\Debug\net8.0\ChessBoardClassLibrary.dll
+C:\Users\chaus\Desktop\Activity2_Aaron_Chaussignand\ChessBoardClassLibrary\bin\Debug\net8.0\ChessBoardClassLibrary.pdb
+C:\Users\chaus\Desktop\Activity2_Aaron_Chaussignand\ChessBoardClassLibrary\obj\Debug\net8.0\ChessBoardClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chaus\Desktop\Activity2_Aaron_Chaussignand\ChessBoardClassLibrary\obj\Debug\net8.0\ChessBoardClassLibrary.AssemblyInfoInputs.cache
+C:\Users\chaus\Desktop\Activity2_Aaron_Chaussignand\ChessBoardClassLibrary\obj\Debug\net8.0\ChessBoardClassLibrary.AssemblyInfo.cs
+C:\Users\chaus\Desktop\Activity2_Aaron_Chaussignand\ChessBoardClassLibrary\obj\Debug\net8.0\ChessBoardClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\chaus\Desktop\Activity2_Aaron_Chaussignand\ChessBoardClassLibrary\obj\Debug\net8.0\ChessBoardClassLibrary.dll
+C:\Users\chaus\Desktop\Activity2_Aaron_Chaussignand\ChessBoardClassLibrary\obj\Debug\net8.0\refint\ChessBoardClassLibrary.dll
+C:\Users\chaus\Desktop\Activity2_Aaron_Chaussignand\ChessBoardClassLibrary\obj\Debug\net8.0\ChessBoardClassLibrary.pdb
+C:\Users\chaus\Desktop\Activity2_Aaron_Chaussignand\ChessBoardClassLibrary\obj\Debug\net8.0\ref\ChessBoardClassLibrary.dll
