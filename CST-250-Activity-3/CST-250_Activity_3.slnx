@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="CountToOneRecursion/CountToOneRecursion.csproj" />
+  <Project Path="FactorialRecursion/FactorialRecursion.csproj" />
+  <Project Path="FloodFillRecursion/FloodFillRecursion.csproj" />
+  <Project Path="GreatestCommonDivisorRecursion/GreatestCommonDivisorRecursion.csproj" />
+</Solution>
