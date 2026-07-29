@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\chaus\\Desktop\\Grand Canyon\\CST-250_Milestone3_CODE_Aaron_Chaussignand(1)\\Milestone3_Code\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1685C992-9472-42AB-B9CF-5EDD1B6B0932}|MinesweeperClassLibrary.Tests\\MinesweeperClassLibrary.Tests.csproj|c:\\users\\chaus\\desktop\\grand canyon\\cst-250_milestone3_code_aaron_chaussignand(1)\\milestone3_code\\minesweeperclasslibrary.tests\\boardlogictests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1685C992-9472-42AB-B9CF-5EDD1B6B0932}|MinesweeperClassLibrary.Tests\\MinesweeperClassLibrary.Tests.csproj|solutionrelative:minesweeperclasslibrary.tests\\boardlogictests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BoardLogicTests.cs",
+              "DocumentMoniker": "C:\\Users\\chaus\\Desktop\\Grand Canyon\\CST-250_Milestone3_CODE_Aaron_Chaussignand(1)\\Milestone3_Code\\MinesweeperClassLibrary.Tests\\BoardLogicTests.cs",
+              "RelativeDocumentMoniker": "MinesweeperClassLibrary.Tests\\BoardLogicTests.cs",
+              "ToolTip": "C:\\Users\\chaus\\Desktop\\Grand Canyon\\CST-250_Milestone3_CODE_Aaron_Chaussignand(1)\\Milestone3_Code\\MinesweeperClassLibrary.Tests\\BoardLogicTests.cs",
+              "RelativeToolTip": "MinesweeperClassLibrary.Tests\\BoardLogicTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-29T03:23:36.956Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
