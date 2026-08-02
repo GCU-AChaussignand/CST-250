@@ -1,0 +1,14 @@
+C:\Users\chaus\Desktop\Grand Canyon\CST-250_Activity_3_CODE_Aaron_Chaussignand(1)\FactorialRecursion\bin\Debug\net8.0\FactorialRecursion.exe
+C:\Users\chaus\Desktop\Grand Canyon\CST-250_Activity_3_CODE_Aaron_Chaussignand(1)\FactorialRecursion\bin\Debug\net8.0\FactorialRecursion.deps.json
+C:\Users\chaus\Desktop\Grand Canyon\CST-250_Activity_3_CODE_Aaron_Chaussignand(1)\FactorialRecursion\bin\Debug\net8.0\FactorialRecursion.runtimeconfig.json
+C:\Users\chaus\Desktop\Grand Canyon\CST-250_Activity_3_CODE_Aaron_Chaussignand(1)\FactorialRecursion\bin\Debug\net8.0\FactorialRecursion.dll
+C:\Users\chaus\Desktop\Grand Canyon\CST-250_Activity_3_CODE_Aaron_Chaussignand(1)\FactorialRecursion\bin\Debug\net8.0\FactorialRecursion.pdb
+C:\Users\chaus\Desktop\Grand Canyon\CST-250_Activity_3_CODE_Aaron_Chaussignand(1)\FactorialRecursion\obj\Debug\net8.0\FactorialRecursion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chaus\Desktop\Grand Canyon\CST-250_Activity_3_CODE_Aaron_Chaussignand(1)\FactorialRecursion\obj\Debug\net8.0\FactorialRecursion.AssemblyInfoInputs.cache
+C:\Users\chaus\Desktop\Grand Canyon\CST-250_Activity_3_CODE_Aaron_Chaussignand(1)\FactorialRecursion\obj\Debug\net8.0\FactorialRecursion.AssemblyInfo.cs
+C:\Users\chaus\Desktop\Grand Canyon\CST-250_Activity_3_CODE_Aaron_Chaussignand(1)\FactorialRecursion\obj\Debug\net8.0\FactorialRecursion.csproj.CoreCompileInputs.cache
+C:\Users\chaus\Desktop\Grand Canyon\CST-250_Activity_3_CODE_Aaron_Chaussignand(1)\FactorialRecursion\obj\Debug\net8.0\FactorialRecursion.dll
+C:\Users\chaus\Desktop\Grand Canyon\CST-250_Activity_3_CODE_Aaron_Chaussignand(1)\FactorialRecursion\obj\Debug\net8.0\refint\FactorialRecursion.dll
+C:\Users\chaus\Desktop\Grand Canyon\CST-250_Activity_3_CODE_Aaron_Chaussignand(1)\FactorialRecursion\obj\Debug\net8.0\FactorialRecursion.pdb
+C:\Users\chaus\Desktop\Grand Canyon\CST-250_Activity_3_CODE_Aaron_Chaussignand(1)\FactorialRecursion\obj\Debug\net8.0\FactorialRecursion.genruntimeconfig.cache
+C:\Users\chaus\Desktop\Grand Canyon\CST-250_Activity_3_CODE_Aaron_Chaussignand(1)\FactorialRecursion\obj\Debug\net8.0\ref\FactorialRecursion.dll
