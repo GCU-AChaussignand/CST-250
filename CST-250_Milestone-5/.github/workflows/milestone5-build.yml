@@ -1,0 +1,43 @@
+name: CST-250 Milestone 5 Build
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - '**/*.cs'
+      - '**/*.csproj'
+      - '**/*.sln'
+      - '.github/workflows/milestone5-build.yml'
+
+jobs:
+  build-and-test:
+    runs-on: windows-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Install .NET 8 SDK
+        uses: actions/setup-dotnet@v4
+        with:
+          dotnet-version: '8.0.x'
+
+      - name: Locate Milestone 5 solution
+        id: locate
+        shell: pwsh
+        run: |
+          $solution = Get-ChildItem -Path . -Recurse -Filter MinesweeperMilestone5.sln | Select-Object -First 1
+          if (-not $solution) { throw 'MinesweeperMilestone5.sln was not found.' }
+          "solution=$($solution.FullName)" >> $env:GITHUB_OUTPUT
+          $tests = Get-ChildItem -Path $solution.Directory.FullName -Recurse -Filter MinesweeperClassLibrary.Tests.csproj | Select-Object -First 1
+          if (-not $tests) { throw 'MinesweeperClassLibrary.Tests.csproj was not found.' }
+          "tests=$($tests.FullName)" >> $env:GITHUB_OUTPUT
+
+      - name: Restore
+        run: dotnet restore "${{ steps.locate.outputs.solution }}"
+
+      - name: Build Release
+        run: dotnet build "${{ steps.locate.outputs.solution }}" --configuration Release --no-restore --warnaserror
+
+      - name: Run tests
+        run: dotnet test "${{ steps.locate.outputs.tests }}" --configuration Release --no-build --logger "console;verbosity=normal"
