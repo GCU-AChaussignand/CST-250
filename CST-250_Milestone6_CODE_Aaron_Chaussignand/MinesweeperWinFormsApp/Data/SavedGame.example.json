@@ -1,0 +1,209 @@
+{
+  "Size": 5,
+  "DifficultyPercent": 10,
+  "ElapsedSeconds": 42.0,
+  "ThemeName": "Midnight",
+  "SavedAtUtc": "2026-08-17T06:00:00Z",
+  "Cells": [
+    {
+      "Row": 0,
+      "Column": 0,
+      "IsBomb": false,
+      "IsVisited": true,
+      "IsFlagged": false,
+      "NumberOfBombNeighbors": 1
+    },
+    {
+      "Row": 0,
+      "Column": 1,
+      "IsBomb": true,
+      "IsVisited": false,
+      "IsFlagged": true,
+      "NumberOfBombNeighbors": 9
+    },
+    {
+      "Row": 0,
+      "Column": 2,
+      "IsBomb": false,
+      "IsVisited": false,
+      "IsFlagged": false,
+      "NumberOfBombNeighbors": 1
+    },
+    {
+      "Row": 0,
+      "Column": 3,
+      "IsBomb": false,
+      "IsVisited": false,
+      "IsFlagged": false,
+      "NumberOfBombNeighbors": 0
+    },
+    {
+      "Row": 0,
+      "Column": 4,
+      "IsBomb": false,
+      "IsVisited": false,
+      "IsFlagged": false,
+      "NumberOfBombNeighbors": 0
+    },
+    {
+      "Row": 1,
+      "Column": 0,
+      "IsBomb": false,
+      "IsVisited": true,
+      "IsFlagged": false,
+      "NumberOfBombNeighbors": 1
+    },
+    {
+      "Row": 1,
+      "Column": 1,
+      "IsBomb": false,
+      "IsVisited": true,
+      "IsFlagged": false,
+      "NumberOfBombNeighbors": 1
+    },
+    {
+      "Row": 1,
+      "Column": 2,
+      "IsBomb": false,
+      "IsVisited": false,
+      "IsFlagged": false,
+      "NumberOfBombNeighbors": 1
+    },
+    {
+      "Row": 1,
+      "Column": 3,
+      "IsBomb": false,
+      "IsVisited": false,
+      "IsFlagged": false,
+      "NumberOfBombNeighbors": 0
+    },
+    {
+      "Row": 1,
+      "Column": 4,
+      "IsBomb": false,
+      "IsVisited": false,
+      "IsFlagged": false,
+      "NumberOfBombNeighbors": 0
+    },
+    {
+      "Row": 2,
+      "Column": 0,
+      "IsBomb": false,
+      "IsVisited": true,
+      "IsFlagged": false,
+      "NumberOfBombNeighbors": 0
+    },
+    {
+      "Row": 2,
+      "Column": 1,
+      "IsBomb": false,
+      "IsVisited": false,
+      "IsFlagged": false,
+      "NumberOfBombNeighbors": 0
+    },
+    {
+      "Row": 2,
+      "Column": 2,
+      "IsBomb": false,
+      "IsVisited": false,
+      "IsFlagged": false,
+      "NumberOfBombNeighbors": 1
+    },
+    {
+      "Row": 2,
+      "Column": 3,
+      "IsBomb": false,
+      "IsVisited": false,
+      "IsFlagged": false,
+      "NumberOfBombNeighbors": 1
+    },
+    {
+      "Row": 2,
+      "Column": 4,
+      "IsBomb": false,
+      "IsVisited": false,
+      "IsFlagged": false,
+      "NumberOfBombNeighbors": 1
+    },
+    {
+      "Row": 3,
+      "Column": 0,
+      "IsBomb": false,
+      "IsVisited": false,
+      "IsFlagged": false,
+      "NumberOfBombNeighbors": 0
+    },
+    {
+      "Row": 3,
+      "Column": 1,
+      "IsBomb": false,
+      "IsVisited": false,
+      "IsFlagged": false,
+      "NumberOfBombNeighbors": 0
+    },
+    {
+      "Row": 3,
+      "Column": 2,
+      "IsBomb": false,
+      "IsVisited": false,
+      "IsFlagged": false,
+      "NumberOfBombNeighbors": 1
+    },
+    {
+      "Row": 3,
+      "Column": 3,
+      "IsBomb": true,
+      "IsVisited": false,
+      "IsFlagged": false,
+      "NumberOfBombNeighbors": 9
+    },
+    {
+      "Row": 3,
+      "Column": 4,
+      "IsBomb": false,
+      "IsVisited": false,
+      "IsFlagged": false,
+      "NumberOfBombNeighbors": 1
+    },
+    {
+      "Row": 4,
+      "Column": 0,
+      "IsBomb": false,
+      "IsVisited": false,
+      "IsFlagged": false,
+      "NumberOfBombNeighbors": 0
+    },
+    {
+      "Row": 4,
+      "Column": 1,
+      "IsBomb": false,
+      "IsVisited": false,
+      "IsFlagged": false,
+      "NumberOfBombNeighbors": 0
+    },
+    {
+      "Row": 4,
+      "Column": 2,
+      "IsBomb": false,
+      "IsVisited": false,
+      "IsFlagged": false,
+      "NumberOfBombNeighbors": 1
+    },
+    {
+      "Row": 4,
+      "Column": 3,
+      "IsBomb": false,
+      "IsVisited": false,
+      "IsFlagged": false,
+      "NumberOfBombNeighbors": 1
+    },
+    {
+      "Row": 4,
+      "Column": 4,
+      "IsBomb": false,
+      "IsVisited": false,
+      "IsFlagged": false,
+      "NumberOfBombNeighbors": 1
+    }
+  ]
+}
